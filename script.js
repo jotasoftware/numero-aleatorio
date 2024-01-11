@@ -16,7 +16,7 @@ function evento(){
     let novoAlert = '';
 
     let alert = document.getElementById('alert')
-    if(numero.value == ''){
+    if(numero.value == '' || isNaN(numero.value)){
         novoAlert = 'Nenhum número foi digitado';
     }else{
         let resposta = novoNumero(numero.value);
