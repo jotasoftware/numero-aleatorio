@@ -1,7 +1,5 @@
 # Jogo do Número Aleatório
 
-![Badge do Projeto](https://img.shields.io/badge/status-concluído-green)
-
 > Este projeto consiste em um jogo interativo onde o jogador precisa adivinhar um número gerado aleatoriamente pela função `Math.random()`. Criado com HTML, CSS e JavaScript, o jogo incentiva o uso da lógica e do raciocínio para encontrar o número correto.
 
 🔗 **Acesse o projeto online:** [Jogo do Número Aleatório](https://jotasoftware.github.io/numero-aleatorio/)
